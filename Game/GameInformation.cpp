@@ -21,5 +21,5 @@ void GameInformation::allDraw() {
 
 void GameInformation::printGame() {
 	printf("ÀüÃ¼[ %d ] : »ç¶÷ [ %d ] ÄÄÇ»ÅÍ [ %d ] ºñ±è [ %d ]\n", m_userWin + m_comWin + m_Draw, m_userWin, m_comWin, m_Draw);
-	printf("³ªÀÇ ½Â·ü : %.2f %%\n", (float)m_userWin / (m_userWin + m_comWin + m_Draw) * 100);
+	printf("³ªÀÇ ½Â·ü : %.2f %%\n", (float)(m_userWin) / (m_userWin + m_comWin + m_Draw) * 100);
 }
