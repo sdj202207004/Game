@@ -1,0 +1,12 @@
+total 65
+drwxr-xr-x 1 shimd 197609     0 Jun 17 15:06 ./
+drwxr-xr-x 1 shimd 197609     0 Jun 17 13:56 ../
+drwxr-xr-x 1 shimd 197609     0 Jun 17 15:06 .git/
+-rw-r--r-- 1 shimd 197609  7466 Jun 17 13:56 .gitignore
+drwxr-xr-x 1 shimd 197609     0 Jun 17 13:57 .vs/
+drwxr-xr-x 1 shimd 197609     0 Jun 17 15:05 Game/
+-rw-r--r-- 1 shimd 197609  1439 Jun 17 13:57 Game.sln
+-rw-r--r-- 1 shimd 197609 35823 Jun 17 13:56 LICENSE
+-rw-r--r-- 1 shimd 197609    40 Jun 17 13:56 README.md
+-rw-r--r-- 1 shimd 197609     0 Jun 17 15:06 list.txt
+drwxr-xr-x 1 shimd 197609     0 Jun 17 14:10 x64/
